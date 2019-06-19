@@ -1,0 +1,7 @@
+README:
+
+To compile:
+make
+./runsc
+./runcs
+make clean
